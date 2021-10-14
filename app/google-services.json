@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020863484346",
+    "project_id": "everypic-a48c5",
+    "storage_bucket": "everypic-a48c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020863484346:android:c5a83b9ed2abb8d0170d83",
+        "android_client_info": {
+          "package_name": "io.twotle.everypic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020863484346-2l17ru44i39npiiv8m8uslb254psc8hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjatp_c-XQL7kbzqRjp8OvHqQNN0f5Ek8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020863484346-2l17ru44i39npiiv8m8uslb254psc8hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
